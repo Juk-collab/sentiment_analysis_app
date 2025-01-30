@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+requests
+pydantic
+streamlit
+groq
+
