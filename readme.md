@@ -19,7 +19,7 @@ Note that the code has been tested to work only in Windows machine.
   - `llama` (Llama 3 model via Groq API)
 - **Analyze Sentiment Button:** Sends the request to the backend API.
 - **Result Display:** Shows the **sentiment (positive/negative)** and the **confidence score**.
-
+Note that the confidence of Llama3 is based on prompting, meaning the model decides itself how accurate it is.
 ## Technologies & Libraries Used
 
 ### Backend (FastAPI)
